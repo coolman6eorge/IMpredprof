@@ -5,3 +5,5 @@
 git clone https://github.com/coolman6eorge/IMpredprof.git
 
 cd IMpredprof
+## Как использовать проект
+Запуск файлов 1.py, 2.py, 3.py, 4.py
