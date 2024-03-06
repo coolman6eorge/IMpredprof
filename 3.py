@@ -1,8 +1,8 @@
 r = open('rocket.txt', encoding="UTF-8")
 
-arr_r = [] # Массив с ракетами. Вид: [ [date,code,rocketparts], ... ]
+arr_r = [] # Массив с элементами ракет. Вид: [ [date,code,rocketparts], ... ]
 
-# Парсинг файла с ракетами
+# Парсинг файла с элементами ракет
 for i in r:
     i = i[:-1]
     i = i.split('@')
